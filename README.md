@@ -1,6 +1,7 @@
 # node-note-taking-app
 
-#   Purpose:    to demonstrate how node can import not only its own core modules and third party modules, but also custom modules written by the developer.
+#   Purpose:    
+#               to demonstrate how node can import not only its own core modules and third party modules, but also custom modules written by the developer.
 #
 #
 #               Once created, notes created persist until explicitly removed.
@@ -8,7 +9,8 @@
 #
 #
 
-#   Usage:      Run node app.js with these command line options:
+#   Usage:      
+#               Run node app.js with these command line options:
 #
 #
 #

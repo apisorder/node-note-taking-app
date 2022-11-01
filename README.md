@@ -1,5 +1,7 @@
 # node-note-taking-app
-
+#
+#
+#
 #   Purpose:    
 #               to demonstrate how node can import not only its own core modules and third party modules, but also custom modules written by the developer.
 #
